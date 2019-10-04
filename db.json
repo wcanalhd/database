@@ -99,25 +99,4 @@
                 }
             ]
         },
-        {
-            "project_id": "6",
-            "project_title": "Project 6 - IT and Web",
-            "project_files":[
-                {
-                    "file_id": "1",
-                    "file_title": "How to setup project 6",
-                    "file_content": "<h1>Just set it up by copy + paste</h1>"
-                },
-                {
-                    "file_id": "2",
-                    "file_title": "How to install project 6",
-                    "file_content": "<h1>Just install it up by copy + paste</h1><br><p>Paragraph 1 <br> line 2</p>"
-                },
-                {
-                    "file_id": "3",
-                    "file_title": "How to delete project 6",
-                    "file_content": "<h1>Press Delete + CTRL </h1><br><p>Paragraph 1 <br> line 2</p>"
-                }
-            ]
-        }
     ]
